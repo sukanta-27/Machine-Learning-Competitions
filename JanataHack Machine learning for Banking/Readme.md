@@ -9,7 +9,7 @@ do that by using any of the following ways:
 - Fork the repo and rerun the cells
 - DownLoad the `trainData_report.html` and `TestData_report.html` files and view in browser
 - Download the notebook and open in Google colab 
-- View the Dataset from this [Colab link](https://colab.research.google.com/drive/1IfS0fmGIu13wM-6TaUKLc_RxyJzdt2HJ?usp=sharing)
+- See the notebook and EDA report from this [Colab link](https://colab.research.google.com/drive/1IfS0fmGIu13wM-6TaUKLc_RxyJzdt2HJ?usp=sharing)
 
 # Problem Statement
 Have you ever wondered how lenders use various factors such as credit score, annual income, the loan amount approved, tenure, debt-to-income ratio etc. and select your interest rates? 
