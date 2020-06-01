@@ -1,4 +1,6 @@
-<img src="https://sukanta-27.tinytake.com/media/d0e1a7?filename=1591025695674_TinyTake01-06-2020-09-04-22.png&sub_type=thumbnail_preview&type=attachment&width=796&height=211" title="Powered by TinyTake Screen Capture"/><br>
+<img src="https://sukanta-27.tinytake.com/media/d0e1a7?filename=1591025695674_TinyTake01-06-2020-09-04-22.png&sub_type=thumbnail_preview&type=attachment&width=796&height=211"/><br>
+
+## [Link to the Contest](https://datahack.analyticsvidhya.com/contest/janatahack-machine-learning-for-banking)
 
 # Disclaimer
 Currently in the attached Notebook, under Exploratory Data Analysis section, the `pandas_profiling` reports are not visible in the
